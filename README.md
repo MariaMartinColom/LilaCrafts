@@ -13,5 +13,4 @@
   -implementacion (ex:generar clases de Java)
       -software (java y j2EE-->Java Enterprise edition(conj. de librerias para desarrollo en entorno servidor)
       -hardware (entorno de trabajo, servidor Java)
-      
 5.producto.
